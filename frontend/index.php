@@ -116,10 +116,9 @@
                     <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
                 </div>
                 <div class="col-md-5">
-                    <svg aria-label="Placeholder: 500x500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" height="500" preserveAspectRatio="xMidYMid slice" role="img" width="500" xmlns="http://www.w3.org/2000/svg">
+                    <img src="../assets/uploads/slider/1.png" class="d-block w-100" alt="Slide 3" style="height: 500px; object-fit: cover;">
                         <title>Placeholder</title>
                         <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect>
-                        <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
                     </svg>
                 </div>
             </div>
@@ -132,10 +131,10 @@
                     <p class="lead">Another featurette? Of course.</p>
                 </div>
                 <div class="col-md-5 order-md-1">
-                    <svg aria-label="Placeholder: 500x500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" height="500" preserveAspectRatio="xMidYMid slice" role="img" width="500" xmlns="http://www.w3.org/2000/svg">
+                    <img src="../assets/uploads/slider/3.png" class="d-block w-100" alt="Slide 3" style="height: 500px; object-fit: cover;">
                         <title>Placeholder</title>
                         <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect>
-                        <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
+
                     </svg>
                 </div>
             </div>
@@ -148,10 +147,9 @@
                     <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
                 </div>
                 <div class="col-md-5">
-                    <svg aria-label="Placeholder: 500x500" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" height="500" preserveAspectRatio="xMidYMid slice" role="img" width="500" xmlns="http://www.w3.org/2000/svg">
+                    <img src="../assets/uploads/slider/2.png" class="d-block w-100" alt="Slide 3" style="height: 500px; object-fit: cover;">
                         <title>Placeholder</title>
                         <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect>
-                        <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
                     </svg>
                 </div>
             </div>
